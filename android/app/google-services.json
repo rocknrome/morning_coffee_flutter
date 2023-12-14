@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980290857613",
+    "project_id": "morning-coffee-v1-lxukwx",
+    "storage_bucket": "morning-coffee-v1-lxukwx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980290857613:android:da0fb7f7ece747254d90c4",
+        "android_client_info": {
+          "package_name": "com.mycompany.morningcoffeev1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8JYF6TBIBS5TtM3dRxQWJkUvamcBH4z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
